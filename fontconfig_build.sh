@@ -2,7 +2,7 @@
 
 . abi_settings.sh $1 $2 $3
 
-pushd fontconfig
+pushd fontconfig-2.12.5
 
 make clean
 
